@@ -1,0 +1,10 @@
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event Timer.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event_Timer.EventTimer.resources
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event_Timer.Properties.Resources.resources
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event Timer.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event Timer.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Event Timer\Event Timer\bin\Debug\Event Timer.exe.config
+C:\Users\Janek\source\repos\Event Timer\Event Timer\bin\Debug\Event Timer.exe
+C:\Users\Janek\source\repos\Event Timer\Event Timer\bin\Debug\Event Timer.pdb
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event Timer.exe
+C:\Users\Janek\source\repos\Event Timer\Event Timer\obj\Debug\Event Timer.pdb

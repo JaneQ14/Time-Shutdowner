@@ -1,0 +1,11 @@
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\bin\Debug\Time Shutdowner.exe.config
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\bin\Debug\Time Shutdowner.exe
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\bin\Debug\Time Shutdowner.pdb
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time_Shutdowner.Properties.Resources.resources
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.exe
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Time Shutdowner.pdb
+C:\Users\Janek\source\repos\Time Shutdowner\Event Timer\obj\Debug\Event_Timer.TimeShutdowner.resources
